@@ -1,3 +1,3 @@
 20213041!Lee SeongJae
 
-kookmin univ.school of computer science
+kookmin univ.school of cs
